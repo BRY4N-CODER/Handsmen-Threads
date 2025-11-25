@@ -92,6 +92,8 @@ Sales Agent	Customer & order access only
 Warehouse Manager	Full inventory access
 Administrator	Full access across all features
 
+🎥 Demo Video Flow ([https://drive.google.com/file/d/1ZscSS0A6oEUfDc4TKDQYN7ZJ71bHwX6m/view?usp=sharing](https://drive.google.com/file/d/1s8NqMzmC2evbHKbVZ6ow6IKgqCyXF1S0/view?usp=sharing))
+
 🏁 Conclusion
 
 The HandsMen Threads app is not just a Salesforce build — it is a complete business digitalization initiative.
@@ -105,5 +107,7 @@ By combining structured data models, automation, and intelligent validation, the
 👨‍💻 Developer
 
 Jamiel Bryan T. Reaño
+
 Polytechnic University of the Philippines
+
 Salesforce Developer — Capstone Project AY 2024–2025
