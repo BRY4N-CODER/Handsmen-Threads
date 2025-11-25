@@ -103,6 +103,7 @@ By combining structured data models, automation, and intelligent validation, the
 ✨ focus more on fashion and less on administration
 
 👨‍💻 Developer
+
 Jamiel Bryan T. Reaño
 Polytechnic University of the Philippines
 Salesforce Developer — Capstone Project AY 2024–2025
