@@ -107,7 +107,3 @@ By combining structured data models, automation, and intelligent validation, the
 Jamiel Bryan T. Reaño
 Polytechnic University of the Philippines
 Salesforce Developer — Capstone Project AY 2024–2025
-
-Jamiel Bryan T. Reaño
-Polytechnic University of the Philippines
-Salesforce Developer — Capstone Project AY 2024–2025
